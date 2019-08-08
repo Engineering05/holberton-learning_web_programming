@@ -35,11 +35,11 @@ body {
   text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
 }
 h1{
-  font-size: 80px;
+  font-size: 120px;
 }
 
 .lead{
-font-size: 26px;
+font-size: 34px;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
